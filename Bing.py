@@ -1,4 +1,1 @@
-from re import X
-
-
-"Changes" = X
+X = "Changes"
